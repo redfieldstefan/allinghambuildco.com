@@ -1,0 +1,17 @@
+.logo {
+  height: 50px;
+  display: flex;
+  border: 2px solid tan;
+  padding: 10px;
+  flex-direction: column;
+}
+
+.text {
+  color: #145214;
+  font-family: "Trebuchet MS";
+  text-align: left;
+}
+
+.subText {
+  font-size: 10px;
+}

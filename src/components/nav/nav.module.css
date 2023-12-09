@@ -1,0 +1,25 @@
+.nav {
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  background: white;
+  align-items: flex-end;
+}
+
+.links {
+  text-transform: uppercase;
+  font-size: 12px;
+  margin-bottom: 1px;
+}
+
+.link {
+  text-decoration: none;
+  color: #0d0d0d;
+  margin-left: 10px;
+  border-bottom: 1px solid black;
+}
+
+.link:hover {
+  border-bottom: 2px solid #145214;
+  cursor: pointer;
+}
