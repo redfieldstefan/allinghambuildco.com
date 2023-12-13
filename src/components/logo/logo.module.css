@@ -1,5 +1,4 @@
 .logo {
-  height: 50px;
   display: flex;
   border: 2px solid tan;
   padding: 10px;
@@ -10,8 +9,11 @@
   color: #145214;
   font-family: "Trebuchet MS";
   text-align: left;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .subText {
   font-size: 10px;
+  padding-top: 3px;
 }

@@ -22,7 +22,6 @@ const Nav = () => {
           })
         }
       </div>
-      <p className='red'>red</p>
     </nav>
   );
 };
